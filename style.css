@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body {
-  background-image: url(background.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75) ), url('background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
