@@ -108,8 +108,8 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/metatavu-logo-127x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "Metatavu",
+              "link": "https://metatavu.fi",
               "title": "",
               "linkInNewWindow": false
             },
@@ -118,13 +118,13 @@
               "linkInNewWindow": false,
               "name": "heart",
               "family": "et-line",
-              "link": "https://mobirise.com",
+              "link": "https://huoli.fi",
               "size": 0,
               "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HUOLI.fi</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">PALVELUN KUVAUS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-2\">ESITTELYVIDEO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-4\">OTA YHTEYTTÄ<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">PALVELUN KUVAUS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-2\">ESITTELYVIDEO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-4\">OTA YHTEYTTÄ<br></a></li><li class=\"nav-item nav-btn\"></li>"
         },
         {
           "_tags": [
@@ -153,7 +153,7 @@
           },
           "title": "HUOLI.fi palvelukonsepti",
           "text": "<span style=\"font-style: normal;\">Me kaikki kohtaamme vanhuksia. Naapureina, työssämme, ohi kulkiessamme. Joskus meillä herää huoli vanhuksesta. Miten hän voi, pärjääkö hän? Huoli voi liittyä esimerkiksi muuttuneeseen käytökseen, terveyteen tai jaksamiseen.<br><br>Varhaisella avuntarpeen tunnistamisella pyritään tukemaan vanhusten hyvinvointia ja auttamaan arjessa selviytymistä. Me kaikki voimme osoittaa, että välitämme. Toimintamalli vastaa aitoon tarpeeseen: haluamme helpottaa huolestuneen henkilön yhteydenoton mahdollisuutta ja tehdä välittämisen ilmaisemisesta mahdollisimman helppoa. Palvelu on auki ajasta ja paikasta riippumatta.&nbsp;<br><br><a href=\"https://metatavu.fi\" target=\"_blank\">Metatavu Oy</a> ylläpitää ja jatkokehittää Mikkelin kaupungin vanhusneuvoston ja Vanhustyön keskusliiton kanssa kehitettyä Huoli-toimintamallia. Se on helppo ottaa käyttöön ja voit luottaa siihen, että ammattilainen huolehtii jatkosta. Jos olet kiinnostunut ottamaan käyttöön Huoli-konseptin tai haluat lisätietoja toimintamallista, niin ota rohkeasti&nbsp;<a href=\"index.html#contacts1-4\">yhteyttä</a>.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "buttons": "",
           "_styles": {
             ".mbr-section-lead": {
               "text-align": "left",
@@ -218,7 +218,7 @@
           },
           "title": "HUOLI.fi esittelyvideo",
           "text": "Palvelu on jo käytössä Essotella (Etelä-Savon sosiaali- ja terveyspalvelut) osoitteessa  <a target=\"_blank\" href=\"https://essote.huoli.fi\" class=\"text-black\">essote.huoli.fi</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": ""
         },
         {
           "_tags": [
